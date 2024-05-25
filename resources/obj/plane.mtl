@@ -1,0 +1,90 @@
+
+newmtl matAnthena
+Ns 359.99999
+Ka 1.0 1.0 1.0
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ke 0 0 0
+Ni 1
+d 1
+illum 2
+
+newmtl matPropeller
+Ns 359.99999
+Ka 0.1 0 0
+Kd 0.8 0 0
+Ks 0.2 0.2 0.2
+Ke 0 0 0
+Ni 1
+d 1
+illum 2
+
+newmtl matGlass
+Ns 500
+Ka 0.1 0.1 0.1
+Kd 0.1 0.1 0.1
+Ks 0.9 0.9 0.9
+Ke 0 0 0
+Ni 1.5
+d 0.1
+illum 3
+
+newmtl matFrame
+Ns 500
+Ka 0.2 0.2 0.2
+Kd 0.6 0.6 0.6
+Ks 0.9 0.9 0.9
+Ke 0 0 0
+Ni 1
+d 1
+illum 2
+
+newmtl matWheel
+Ns 10
+Ka 0.02 0.02 0.02
+Kd 0.01 0.01 0.01
+Ks 0.1 0.1 0.1
+Ke 0 0 0
+Ni 1
+d 1
+illum 2
+
+newmtl matHolder
+Ns 50
+Ka 0.3 0.3 0.3
+Kd 0.5 0.5 0.5
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+Ni 1
+d 1
+illum 2
+
+newmtl matCoverWheel
+Ns 500
+Ka 0.2 0.2 0.2
+Kd 0.6 0.6 0.6
+Ks 0.9 0.9 0.9
+Ke 0 0 0
+Ni 1
+d 1
+illum 2
+
+newmtl matPlaneBody
+Ns 250
+Ka 1.0 1.0 1.0
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ke 0 0 0
+Ni 1.45
+d 1
+illum 2
+
+newmtl matSilver
+Ns 10.00000
+Ka 0.2 0.2 0.2
+Kd 0.7 0.7 0.7
+Ks 0.3 0.3 0.3
+Ke 0 0 0
+Ni 1
+d 1
+illum 2
